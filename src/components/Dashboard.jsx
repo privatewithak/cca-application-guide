@@ -117,7 +117,7 @@ function MainPage() {
   </div>
                 </div>
                 <div className="mt-4 text-center text-gray-700">
-            <p>Made by privatewithak &copy; 2025</p>
+            <p>Made by privatewithak &copy; {new Date().getFullYear()}</p>
             <p>You have a suggestion or found a bug? DM me through Discord.</p>
         </div>
   </div>

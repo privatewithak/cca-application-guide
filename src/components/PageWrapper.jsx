@@ -48,7 +48,7 @@ export default function PageWrapper({ title, children, nextLink, previousLink })
         )}
 
         <div className="mt-4 text-center text-gray-700 text-sm">
-          <p>Made by privatewithak</p>
+          <p>Made by privatewithak &copy; {new Date().getFullYear()}</p>
         </div>
       </div>
     </main>
