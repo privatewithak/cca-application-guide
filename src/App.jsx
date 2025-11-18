@@ -12,10 +12,10 @@ import ScrollToTop from './components/ScrollToTop.jsx'
 import ExamplesBreakdown from './components/Examples.jsx';
 import Utils from './components/Utils.jsx'
 function App() {
-  
+  console.log('hey C17 player go touch some grass')
   return (
     <>
-
+    
       <Navbar />
       <ScrollToTop />
     <div className="relative min-h-screen bg-gray-900 text-white overflow-hidden [background-image:linear-gradient(to_right,rgba(255,255,255,0.04)_1px,transparent_1px),linear-gradient(to_bottom,rgba(255,255,255,0.04)_1px,transparent_1px)]
