@@ -1,4 +1,4 @@
-# ![UULogo](./favicon.png) CCA Application Guide
+# <img src="./favicon.png" alt="UULogo" width="64" height="64"> CCA Application Guide
 
 ![React](https://img.shields.io/badge/React-19-blue)
 ![Vite](https://img.shields.io/badge/Vite-Build-purple)
