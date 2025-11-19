@@ -1,4 +1,4 @@
-# CCA Application Guide
+# ![UULogo](./favicon.png) CCA Application Guide
 
 ![React](https://img.shields.io/badge/React-19-blue)
 ![Vite](https://img.shields.io/badge/Vite-Build-purple)
