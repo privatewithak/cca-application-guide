@@ -1,4 +1,4 @@
-<img src="./favicon.png" width="64" height="64" style="margin: 0 auto;">
+<img src="./favicon.png" width="128" height="128" style="margin: 0 auto;">
 # CCA Application Guide
 
 
