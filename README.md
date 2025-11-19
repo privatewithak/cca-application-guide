@@ -1,7 +1,5 @@
-<img src="./favicon.png" width="48" style="margin: 0; padding: 0; vertical-align: middle;">
-<h1 style="display: inline; margin: 0; padding: 0;">
-  CCA Application Guide
-</h1>
+<img src="./favicon.png" width="64" height="64" style="margin: 0 auto;">
+# CCA Application Guide
 
 
 ![React](https://img.shields.io/badge/React-19-blue)
