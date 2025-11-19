@@ -70,7 +70,9 @@ Suggestions, improvements, and contributions are welcome.
 
 ---
 
-## Contact
+## 🗣️ Contact
 
 You can contact me via Discord:
 _privatewithak_
+
+---
