@@ -1,6 +1,6 @@
 # CCA Application Guide
 
-![React](https://img.shields.io/badge/React-18-blue)
+![React](https://img.shields.io/badge/React-19-blue)
 ![Vite](https://img.shields.io/badge/Vite-Build-purple)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0-38BDF8)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
