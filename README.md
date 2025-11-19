@@ -1,4 +1,8 @@
-# <img src="./favicon.png" alt="UULogo" width="32" height="32" style='padding: 0;'> CCA Application Guide
+<img src="./favicon.png" width="48" style="margin: 0; padding: 0; vertical-align: middle;">
+<h1 style="display: inline; margin: 0; padding: 0;">
+  CCA Application Guide
+</h1>
+
 
 ![React](https://img.shields.io/badge/React-19-blue)
 ![Vite](https://img.shields.io/badge/Vite-Build-purple)
