@@ -180,8 +180,8 @@ export default function GrammarWording() {
           <p>❌ “There is many situation where I helped.”</p>
           <p>✅ “There are many situations where I helped.”</p>
 
-          <p className="mt-2">❌ “I provided several informations to the unit.”</p>
-          <p>✅ “I provided several pieces of information to the unit.”</p>
+          <p className="mt-2">❌ “I provided several informations to the team.”</p>
+          <p>✅ “I provided several pieces of information to the team.”</p>
         </div>
 
         {/* 6. DOUBLE SUBJECTS */}
@@ -269,8 +269,8 @@ export default function GrammarWording() {
           <p>❌ “However I remained calm and I continued the procedure.”</p>
           <p>✅ “However, I remained calm and continued the procedure.”</p>
 
-          <p className="mt-2">❌ “I responded quickly, and maintained order, during the event.”</p>
-          <p>✅ “I responded quickly and maintained order during the event.”</p>
+          <p className="mt-2">❌ “I responded quickly, and maintained order, during the meeting.”</p>
+          <p>✅ “I responded quickly and maintained order during the meeting.”</p>
         </div>
 
         {/* 9. CAPITALIZATION */}
