@@ -53,9 +53,9 @@ export default function GrammarWording() {
             <strong>the</strong> instructions.”
           </p>
 
-          <p className="mt-2">❌ “I met JURY Protection Unit today.”</p>
+          <p className="mt-2">❌ “I met courier today.”</p>
           <p>
-            ✅ “I met <strong>a</strong> JURY Protection Unit today.”
+            ✅ “I met <strong>a</strong> courier today.”
           </p>
         </div>
 
