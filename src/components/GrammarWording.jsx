@@ -53,9 +53,9 @@ export default function GrammarWording() {
             <strong>the</strong> instructions.”
           </p>
 
-          <p className="mt-2">❌ “I want to become officer in JURY.”</p>
+          <p className="mt-2">❌ “I met JURY Protection Unit today.”</p>
           <p>
-            ✅ “I want to become <strong>an</strong> officer in JURY.”
+            ✅ “I met <strong>a</strong> JURY Protection Unit today.”
           </p>
         </div>
 
@@ -118,12 +118,10 @@ export default function GrammarWording() {
           <p className="text-center text-indigo-400 text-lg">Example</p>
 
           <p>
-            ❌ “I joined the patrol and then I assisted the officer because he
-            needed support and also I wanted to help.”
+            ❌ “I joined the meeting and then assisted my colleague because he needed support and also I wanted to help.”
           </p>
           <p>
-            ✅ “I joined the patrol and assisted the officer. He required
-            support, and I provided it effectively.”
+            ✅ “I joined the meeting and supported my colleague. He needed assistance, and I provided it effectively.”
           </p>
         </div>
 
@@ -238,10 +236,9 @@ export default function GrammarWording() {
           <p className="text-center text-indigo-400 text-lg">Example</p>
 
           <p>
-            ❌ “I assisted the officer and the dispatcher, and he thanked me
-            afterwards.”
+            ❌ “I assisted the manager and the coordinator, and he thanked me afterwards.”
           </p>
-          <p>✅ “I assisted the officer and the dispatcher, and the officer thanked me afterwards.”</p>
+          <p>✅ “I assisted the manager and the coordinator, and the manager thanked me afterwards.”</p>
 
           <p className="mt-2">❌ “I followed the protocol and it helped.”</p>
           <p>✅ “I followed the protocol, and the protocol helped to keep the situation stable.”</p>
@@ -298,8 +295,8 @@ export default function GrammarWording() {
         <div className="bg-black/50 px-3 py-4 rounded-xl mt-3">
           <p className="text-center text-indigo-400 text-lg">Example</p>
 
-          <p>❌ “I want to join Civil protection and show my Responsibility.”</p>
-          <p>✅ “I want to join Civil Protection and show my responsibility.”</p>
+          <p>❌ “I want to join Project Management and show my Responsibility.”</p>
+          <p>✅ “I want to join the Project Management team and show my responsibility.”</p>
 
           <p className="mt-2">❌ “I AM READY TO FOLLOW ALL PROTOCOLS.”</p>
           <p>✅ “I am ready to follow all protocols.”</p>
@@ -327,10 +324,9 @@ export default function GrammarWording() {
         <div className="bg-black/50 px-3 py-4 rounded-xl mt-3">
           <p className="text-center text-indigo-400 text-lg">Example</p>
 
-          <p>❌ “I wanna make stuff for the division and do important things.”</p>
+          <p>❌ “I wanna make stuff for the company and do important things.”</p>
           <p>
-            ✅ “I want to contribute to the division and handle important
-            operational tasks.”
+            ✅ “I focus on completing tasks carefully and keeping my actions consistent.”
           </p>
 
           <p className="mt-2">❌ “I will giga-tryhard every situation.”</p>
@@ -350,8 +346,8 @@ export default function GrammarWording() {
             ✅ “I consistently follow rules and maintain discipline.”
           </p>
 
-          <p className="mt-2">❌ “I want to join because I like the division.”</p>
-          <p>✅ “I intend to join because I am interested in structured enforcement work within the division.”</p>
+          <p className="mt-2">❌ “I like how things work here.”</p>
+          <p>✅ “I am comfortable working within clear rules and predictable routines.”</p>
               </div>
               <h3 className="text-xl font-semibold text-slate-100 pt-2">Building clear sentences</h3>
               <p>A good sentence usually answers three things: what you did, how you did it, and why it mattered.</p>
@@ -360,7 +356,7 @@ export default function GrammarWording() {
 
           <p className="font-bold">Action + method + outcome</p>
           <p>
-            “I assisted the unit by monitoring the area, which helped keep the situation controlled.”
+            “I assisted the coordinator by monitoring the databases during an attack, which helped keep the situation controlled.”
           </p>
 
           <p className="mt-2 font-bold">Skill + context + effect</p>

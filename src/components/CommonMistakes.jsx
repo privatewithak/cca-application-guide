@@ -27,8 +27,8 @@ export default function CommonMistakes() {
         <div className="bg-black/50 px-3 py-4 rounded-xl">
           <p className="text-center text-indigo-400 text-lg">Example</p>
 
-          <p>❌ “I joined the server last year and before that I played many RP games with my friends.”</p>
-          <p>✅ “I am familiar with structured enforcement work and understand how to follow procedures.”</p>
+          <p>❌ “I once built a massive LEGO spaceship when I was nine, it had like fifty tiny chairs inside.”</p>
+          <p>✅ “I can organize complex tasks into clear, manageable steps.”</p>
         </div>
 
         {/* 2 — Emotional or dramatic wording */}
@@ -43,8 +43,8 @@ export default function CommonMistakes() {
         <div className="bg-black/50 px-3 py-4 rounded-xl">
           <p className="text-center text-indigo-400 text-lg">Example</p>
 
-          <p>❌ “I desperately want to join and it means the world to me.”</p>
-          <p>✅ “I aim to join because I am interested in consistent, structured duties.”</p>
+          <p>❌ “I live for busy days where everything is crazy and non-stop.”</p>
+          <p>✅ “Busy days are manageable for me as I track priorities and work through them methodically.”</p>
         </div>
 
         {/* 3 — Overexplaining or repeating */}
@@ -73,14 +73,14 @@ export default function CommonMistakes() {
         </h2>
         <p>
           Generic template-like answers are easy to spot. They show no personal effort, no understanding, 
-          and no connection to the Combine environment.
+          and no connection to the environment.
         </p>
 
         <div className="bg-black/50 px-3 py-4 rounded-xl">
           <p className="text-center text-indigo-400 text-lg">Example</p>
 
-          <p>❌ “I want to join because I will be a good member.”</p>
-          <p>✅ “I want to join because I fit structured, procedure-driven duties and can handle stable enforcement work.”</p>
+          <p>❌ “I always end up fixing everyone’s mistakes because I’m the only responsible one.”</p>
+          <p>✅ “When errors occur, I point them out calmly and help colleagues correct them.”</p>
         </div>
 
         {/* 5 — Overconfidence or roleplay phrasing */}
@@ -143,8 +143,8 @@ export default function CommonMistakes() {
         <div className="bg-black/50 px-3 py-4 rounded-xl">
           <p className="text-center text-indigo-400 text-lg">Example</p>
 
-          <p>❌ “I want to join because I like it.”</p>
-          <p>✅ “I want to join because I am interested in consistent enforcement work and structured operational tasks.”</p>
+          <p>❌ “Night shifts are cool and kind of dramatic, that’s why I want them.”</p>
+          <p>✅ “Night shifts work for me because I’m alert at late hours and used to that rhythm.”</p>
         </div>
 
         {/* 9 — Writing like a conversation */}

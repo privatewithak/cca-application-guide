@@ -149,10 +149,9 @@ export default function StyleTone() {
 
                 <div className="bg-black/50 px-3 py-4 rounded-xl mt-3">
                     <p className="text-center text-indigo-400 text-lg">Example</p>
-                    <p>❌ “I&apos;m super hyped to join, I&apos;ll go full tryhard.”</p>
+                    <p>❌ “I pushed myself extremely hard yesterday to deal with a bunch of uncooperative people.”</p>
                     <p>
-                        ✅ “I am motivated to join and ready to treat the role with full
-                        seriousness.”
+                        ✅ “I resolved the situation efficiently.”
                     </p>
                 </div>
 
@@ -218,8 +217,7 @@ export default function StyleTone() {
                         regret it.”
                     </p>
                     <p>
-                        ✅ “When people ignore orders, I stay calm, repeat the instruction,
-                        and follow the appropriate procedure if non-compliance continues.”
+                        ✅ “When colleagues overlook agreed-upon procedures, I stay calm, restate the instructions, and follow the appropriate escalation steps if the issue continues.”
                     </p>
                 </div>
 
@@ -275,12 +273,10 @@ export default function StyleTone() {
                 <div className="bg-black/50 px-3 py-4 rounded-xl mt-3">
                     <p className="text-center text-indigo-400 text-lg">Example</p>
                     <p>
-                        ❌ “Unlike most units, I actually know what I&apos;m doing and won&apos;t
-                        embarrass the division.”
+                        ❌ “I know more than most people here, so others should listen to me.”
                     </p>
                     <p>
-                        ✅ “I aim to represent the division in a disciplined and competent
-                        way at all times.”
+                        ✅ “I focus on keeping my tone steady and respectful, even when I disagree with someone.”
                     </p>
                 </div>
 

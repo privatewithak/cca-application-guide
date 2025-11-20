@@ -18,10 +18,10 @@ export default function ExamplesBreakdown() {
 
         {/* Q1 */}
         <h2 className="text-2xl font-semibold text-slate-100 pt-4">
-          Example 1 — Motivation for joining
+          Example 1 — Analyzing a simple decision
         </h2>
         <p className="italic text-slate-400">
-          Question: “Why do you want to join this division?”
+          Question: “How do you handle a simple decision when you have more than one reasonable option?”
         </p>
 
         <div className="grid gap-4 md:grid-cols-2 pt-2">
@@ -29,9 +29,7 @@ export default function ExamplesBreakdown() {
           <div className="bg-black/50 px-3 py-4 rounded-xl">
             <p className="text-center text-red-400 font-semibold mb-2">Weak answer</p>
             <p>
-              “I want to join because I really like this division and it looks cool. 
-              I think I would have fun and I always wanted to be part of something like this. 
-              I also like the armor and the way members act in-game.”
+“I just pick whatever feels right in the moment and hope it works out.”
             </p>
 
             <h4 className="text-sm font-semibold text-slate-100 mt-3">
@@ -39,13 +37,13 @@ export default function ExamplesBreakdown() {
             </h4>
             <ul className="space-y-1 text-sm">
               <li className="relative pl-4 before:content-['-'] before:absolute before:left-0 before:text-slate-500">
-                Focuses on appearance (“cool”, “armor”) instead of duties and responsibility.
+                Relies on impulse rather than any clarity.
               </li>
               <li className="relative pl-4 before:content-['-'] before:absolute before:left-0 before:text-slate-500">
-                Uses emotional wording (“have fun”) instead of structured motivation.
+                Gives no reasoning behind the choice.
               </li>
               <li className="relative pl-4 before:content-['-'] before:absolute before:left-0 before:text-slate-500">
-                No mention of procedures, enforcement, or how the applicant will actually contribute.
+                Leaves the impression of randomness.
               </li>
             </ul>
           </div>
@@ -54,14 +52,8 @@ export default function ExamplesBreakdown() {
           <div className="bg-black/50 px-3 py-4 rounded-xl">
             <p className="text-center text-emerald-400 font-semibold mb-2">Stronger answer</p>
             <p>
-              “I want to join this division because I am interested in consistent, 
-              procedure-based enforcement work. I enjoy operating in a structured 
-              environment where decisions are guided by regulation instead of 
-              impulse. The division&apos;s focus on stability, discipline, and 
-              internal order matches how I already approach situations in-game. 
-              I believe I can support the unit by applying regulations fairly, 
-              remaining calm under pressure, and assisting with internal oversight 
-              when required.”
+              “When I face a simple decision with more than one reasonable option, I choose the one that gives me the clearest path forward. 
+              I take a moment to compare the outcomes, pick the option that avoids unnecessary complications, and stick to it without overthinking.”
             </p>
 
             <h4 className="text-sm font-semibold text-slate-100 mt-3">
@@ -69,7 +61,7 @@ export default function ExamplesBreakdown() {
             </h4>
             <ul className="space-y-1 text-sm">
               <li className="relative pl-4 before:content-['-'] before:absolute before:left-0 before:text-slate-500">
-                Focuses on duties: enforcement, structure, regulation, internal order.
+                Shows calmly structured thinking without referencing any duties or roles.
               </li>
               <li className="relative pl-4 before:content-['-'] before:absolute before:left-0 before:text-slate-500">
                 Uses neutral, precise vocabulary instead of emotional language.
