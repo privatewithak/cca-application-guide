@@ -1,16 +1,80 @@
-# React + Vite
+<img src="./favicon.png" width="128" height="128" style="margin: 0 auto;">
+<h1>CCA Application Guide</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+![React](https://img.shields.io/badge/React-19-blue)
+![Vite](https://img.shields.io/badge/Vite-Build-purple)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-38BDF8)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A structured and easy-to-navigate guide designed to help applicants prepare clear, polished, and well-written CCA application responses.  
+The project includes writing tips, grammar guidance, tone/style recommendations, examples of common mistakes, and practical tools such as synonym search and tone analysis.
 
-## React Compiler
+This guide is built as a small React application with a clean UI, animated background, and modern styling based on TailwindCSS.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧩 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React 19**
+- **Vite**
+- **React Router**
+- **TailwindCSS**
+- **JavaScript (ES2022)**
+- Animated UI components (custom CSS + React)
+
+---
+
+## 🛠️ Setup & Development
+
+### 1. Install dependencies
+
+```bash
+npm install
+```
+
+### 2. Start dev server
+
+```bash
+npm run dev
+```
+
+### 3. Build for production
+
+```bash
+npm run build
+```
+
+### 4. Preview production build
+
+```bash
+npm run preview
+```
+
+---
+
+## 🌐 Live Demo
+
+[https://cca-application-guide.vercel.app/](https://cca-application-guide.vercel.app/)
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 🤝 Contributions
+
+Suggestions, improvements, and contributions are welcome.
+
+---
+
+## 🗣️ Contact
+
+You can contact me via Discord:
+_privatewithak_
+
+---
