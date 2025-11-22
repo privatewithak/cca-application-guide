@@ -17,21 +17,25 @@ function MainPage() {
             </div>
 
 <div className="relative bg-black/10 py-6 rounded-2xl px-7">
-  <div className="flex gap-6 overflow-x-auto scrollbar-thin scrollbar-thumb-slate-700/40 scrollbar-track-transparent py-2 px-3">
+  <div className="      flex flex-col sm:flex-row
+      gap-6
+      overflow-x-visible sm:overflow-x-auto
+      scrollbar-thin scrollbar-thumb-slate-700/40 scrollbar-track-transparent
+      py-2 px-3">
 
     {/* 1 */}
     <Link
       to="/introduction"
       className="
-        min-w-[260px] max-w-[260px]
-        bg-slate-800/30 backdrop-blur-xl
-        rounded-2xl border border-slate-700/40
-        p-5
-        shadow-md
-        hover:shadow-indigo-500/20 hover:shadow-lg
-        hover:bg-slate-800/50
-        hover:-translate-y-1 hover:scale-[1.01]
-        transition duration-200 ease-out
+  w-full sm:min-w-[260px] sm:max-w-[260px]
+  bg-slate-800/30 backdrop-blur-xl
+  rounded-2xl border border-slate-700/40
+  p-5
+  shadow-md
+  hover:shadow-indigo-500/20 hover:shadow-lg
+  hover:bg-slate-800/50
+  hover:-translate-y-1 hover:scale-[1.01]
+  transition duration-200 ease-out
       "
     >
       <h3 className="text-lg font-semibold mb-2">Introduction</h3>
@@ -42,15 +46,15 @@ function MainPage() {
     <Link
       to="/grammar-wording"
       className="
-        min-w-[260px] max-w-[260px]
-        bg-slate-800/30 backdrop-blur-xl
-        rounded-2xl border border-slate-700/40
-        p-5
-        shadow-md
-        hover:shadow-indigo-500/20 hover:shadow-lg
-        hover:bg-slate-800/50
-        hover:-translate-y-1 hover:scale-[1.01]
-        transition duration-200 ease-out
+  w-full sm:min-w-[260px] sm:max-w-[260px]
+  bg-slate-800/30 backdrop-blur-xl
+  rounded-2xl border border-slate-700/40
+  p-5
+  shadow-md
+  hover:shadow-indigo-500/20 hover:shadow-lg
+  hover:bg-slate-800/50
+  hover:-translate-y-1 hover:scale-[1.01]
+  transition duration-200 ease-out
       "
     >
       <h3 className="text-lg font-semibold mb-2">Grammar & Wording</h3>
@@ -61,15 +65,15 @@ function MainPage() {
     <Link
       to="/style-tone"
       className="
-        min-w-[260px] max-w-[260px]
-        bg-slate-800/30 backdrop-blur-xl
-        rounded-2xl border border-slate-700/40
-        p-5
-        shadow-md
-        hover:shadow-indigo-500/20 hover:shadow-lg
-        hover:bg-slate-800/50
-        hover:-translate-y-1 hover:scale-[1.01]
-        transition duration-200 ease-out
+  w-full sm:min-w-[260px] sm:max-w-[260px]
+  bg-slate-800/30 backdrop-blur-xl
+  rounded-2xl border border-slate-700/40
+  p-5
+  shadow-md
+  hover:shadow-indigo-500/20 hover:shadow-lg
+  hover:bg-slate-800/50
+  hover:-translate-y-1 hover:scale-[1.01]
+  transition duration-200 ease-out
       "
     >
       <h3 className="text-lg font-semibold mb-2">Style & Tone</h3>
@@ -80,15 +84,15 @@ function MainPage() {
     <Link
       to="/common-mistakes"
       className="
-        min-w-[260px] max-w-[260px]
-        bg-slate-800/30 backdrop-blur-xl
-        rounded-2xl border border-slate-700/40
-        p-5
-        shadow-md
-        hover:shadow-indigo-500/20 hover:shadow-lg
-        hover:bg-slate-800/50
-        hover:-translate-y-1 hover:scale-[1.01]
-        transition duration-200 ease-out
+  w-full sm:min-w-[260px] sm:max-w-[260px]
+  bg-slate-800/30 backdrop-blur-xl
+  rounded-2xl border border-slate-700/40
+  p-5
+  shadow-md
+  hover:shadow-indigo-500/20 hover:shadow-lg
+  hover:bg-slate-800/50
+  hover:-translate-y-1 hover:scale-[1.01]
+  transition duration-200 ease-out
       "
     >
       <h3 className="text-lg font-semibold mb-2">Common Mistakes</h3>
@@ -99,15 +103,15 @@ function MainPage() {
     <Link
       to="/examples"
       className="
-        min-w-[260px] max-w-[260px]
-        bg-slate-800/30 backdrop-blur-xl
-        rounded-2xl border border-slate-700/40
-        p-5
-        shadow-md
-        hover:shadow-indigo-500/20 hover:shadow-lg
-        hover:bg-slate-800/50
-        hover:-translate-y-1 hover:scale-[1.01]
-        transition duration-200 ease-out
+  w-full sm:min-w-[260px] sm:max-w-[260px]
+  bg-slate-800/30 backdrop-blur-xl
+  rounded-2xl border border-slate-700/40
+  p-5
+  shadow-md
+  hover:shadow-indigo-500/20 hover:shadow-lg
+  hover:bg-slate-800/50
+  hover:-translate-y-1 hover:scale-[1.01]
+  transition duration-200 ease-out
       "
     >
       <h3 className="text-lg font-semibold mb-2">Examples & Breakdown</h3>
